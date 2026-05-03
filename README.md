@@ -1,6 +1,6 @@
 ## PharmaChain
 
-A Solidity smart contract for pharmaceutical supply chain management on the Ethereum blockchain. Built as a class project exploring blockchain applications in healthcare and pharmaceutical manufacturing.
+A Solidity smart contract for pharmaceutical supply chain management on the Ethereum blockchain. Built as a class project exploring blockchain applications in healthcare and pharmaceutical manufacturing. Utilized Claude Code to help create this smart contract..
 
 ---
 
